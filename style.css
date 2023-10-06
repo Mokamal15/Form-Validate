@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  form {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+input{
+    height: 30px;
+    margin: 10px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+  input[type="submit"] {
+    padding: 5px 10px;
+    margin-left: 12px;
+
+    
+  }
+  
+span{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight:bold ;
+  color: red;
+}
+
+
+
+
+
